@@ -1,0 +1,173 @@
+{
+ "n_sample": 746,
+ "sample_by_stratum": {
+  "unflagged_BC": 300,
+  "ai_hit": 258,
+  "cyber_hit": 188
+ },
+ "agreement_all_items": 0.9906166219839142,
+ "n_kept": 633,
+ "by_stratum_kept": {
+  "unflagged_BC": 274,
+  "ai_hit": 187,
+  "cyber_hit": 172
+ },
+ "cyber_agreement": 0.9984202211690363,
+ "cyber_kappa": 0.9962890659350322,
+ "cyber_precision_both": 0.9941860465116279,
+ "cyber_precision_either": 1.0,
+ "cyber_n_hits": 172,
+ "cyber_miss_rate_both": 0.0,
+ "cyber_miss_rate_either": 0.0,
+ "n_unflagged": 274,
+ "cyber_missed_examples": [],
+ "cyber_false_positive_examples": [],
+ "ai_agreement": 0.9936808846761453,
+ "ai_kappa": 0.9850483625240631,
+ "ai_precision_both": 0.9786096256684492,
+ "ai_precision_either": 1.0,
+ "ai_n_hits": 187,
+ "ai_miss_rate_both": 0.0,
+ "ai_miss_rate_either": 0.0,
+ "ai_missed_examples": [],
+ "ai_false_positive_examples": [],
+ "cyber_depth_agreement": 0.8771929824561403,
+ "cyber_depth_distribution_agreed": {
+  "governance": 81,
+  "mention": 57,
+  "product": 7,
+  "quantified": 5
+ },
+ "cyber_depth_by_year_agreed": {
+  "2016": {
+   "governance": 5,
+   "mention": 2,
+   "product": 0,
+   "quantified": 1
+  },
+  "2017": {
+   "governance": 3,
+   "mention": 3,
+   "product": 0,
+   "quantified": 0
+  },
+  "2018": {
+   "governance": 7,
+   "mention": 7,
+   "product": 0,
+   "quantified": 0
+  },
+  "2019": {
+   "governance": 7,
+   "mention": 6,
+   "product": 1,
+   "quantified": 2
+  },
+  "2020": {
+   "governance": 8,
+   "mention": 6,
+   "product": 1,
+   "quantified": 1
+  },
+  "2021": {
+   "governance": 10,
+   "mention": 5,
+   "product": 3,
+   "quantified": 0
+  },
+  "2022": {
+   "governance": 12,
+   "mention": 5,
+   "product": 0,
+   "quantified": 1
+  },
+  "2023": {
+   "governance": 6,
+   "mention": 10,
+   "product": 1,
+   "quantified": 0
+  },
+  "2024": {
+   "governance": 12,
+   "mention": 7,
+   "product": 0,
+   "quantified": 0
+  },
+  "2025": {
+   "governance": 11,
+   "mention": 6,
+   "product": 1,
+   "quantified": 0
+  }
+ },
+ "ai_type_agreement": 0.9672131147540983,
+ "ai_type_distribution_agreed": {
+  "use": 71,
+  "risk_governance": 62,
+  "regulation": 25,
+  "other": 19
+ },
+ "ai_type_by_year_agreed": {
+  "2016": {
+   "other": 1,
+   "regulation": 0,
+   "risk_governance": 0,
+   "use": 0
+  },
+  "2017": {
+   "other": 1,
+   "regulation": 0,
+   "risk_governance": 0,
+   "use": 1
+  },
+  "2018": {
+   "other": 1,
+   "regulation": 0,
+   "risk_governance": 1,
+   "use": 0
+  },
+  "2019": {
+   "other": 0,
+   "regulation": 0,
+   "risk_governance": 1,
+   "use": 1
+  },
+  "2020": {
+   "other": 0,
+   "regulation": 0,
+   "risk_governance": 1,
+   "use": 0
+  },
+  "2021": {
+   "other": 2,
+   "regulation": 0,
+   "risk_governance": 1,
+   "use": 4
+  },
+  "2022": {
+   "other": 3,
+   "regulation": 1,
+   "risk_governance": 2,
+   "use": 6
+  },
+  "2023": {
+   "other": 1,
+   "regulation": 6,
+   "risk_governance": 13,
+   "use": 5
+  },
+  "2024": {
+   "other": 4,
+   "regulation": 11,
+   "risk_governance": 12,
+   "use": 25
+  },
+  "2025": {
+   "other": 6,
+   "regulation": 7,
+   "risk_governance": 31,
+   "use": 29
+  }
+ },
+ "ai_precision_both_before_filter": 0.7829457364341085
+}

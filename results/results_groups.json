@@ -1,0 +1,329 @@
+{
+ "groups": [
+  {
+   "group": "ASR Nederland N.V. (a.s.r.)",
+   "reports": 10,
+   "words_per_report": 55611.5,
+   "cyber_per10k": 3.938034399359845,
+   "ai_per10k": 0.48551109033203566,
+   "cyber_specific": 0.319634703196347,
+   "sticky": 0.7868133553866344,
+   "xref_per10k": 0.1438551378761587,
+   "years_with_ai": 5
+  },
+  {
+   "group": "Mapfre",
+   "reports": 9,
+   "words_per_report": 27691.444444444445,
+   "cyber_per10k": 3.851971928754569,
+   "ai_per10k": 2.527856578245186,
+   "cyber_specific": 0.2604166666666667,
+   "sticky": 0.7127939512515169,
+   "xref_per10k": 0.0,
+   "years_with_ai": 3
+  },
+  {
+   "group": "Tryg A/S",
+   "reports": 5,
+   "words_per_report": 18387.6,
+   "cyber_per10k": 3.371837542691814,
+   "ai_per10k": 0.0,
+   "cyber_specific": 0.41935483870967744,
+   "sticky": 0.8579394354660749,
+   "xref_per10k": 0.21753790598011705,
+   "years_with_ai": 0
+  },
+  {
+   "group": "Hannover Re",
+   "reports": 10,
+   "words_per_report": 30605.9,
+   "cyber_per10k": 2.9732829291084397,
+   "ai_per10k": 0.45742814293976,
+   "cyber_specific": 0.32967032967032966,
+   "sticky": 0.658667214203112,
+   "xref_per10k": 0.2613875102512914,
+   "years_with_ai": 4
+  },
+  {
+   "group": "Prudential plc",
+   "reports": 3,
+   "words_per_report": 42458.666666666664,
+   "cyber_per10k": 2.5122472051249845,
+   "ai_per10k": 0.23552317548046728,
+   "cyber_specific": 0.21875,
+   "sticky": 0.6849253311180545,
+   "xref_per10k": 0.3925386258007788,
+   "years_with_ai": 3
+  },
+  {
+   "group": "Ageas",
+   "reports": 9,
+   "words_per_report": 40508.666666666664,
+   "cyber_per10k": 2.276604732046366,
+   "ai_per10k": 0.9600140436340098,
+   "cyber_specific": 0.4939759036144578,
+   "sticky": 0.7440688848281138,
+   "xref_per10k": 1.1520168523608116,
+   "years_with_ai": 5
+  },
+  {
+   "group": "Munich Re",
+   "reports": 10,
+   "words_per_report": 42361.7,
+   "cyber_per10k": 2.0065294829999742,
+   "ai_per10k": 0.118031146058822,
+   "cyber_specific": 0.4588235294117647,
+   "sticky": 0.7408513295060852,
+   "xref_per10k": 0.33048720896470163,
+   "years_with_ai": 4
+  },
+  {
+   "group": "Storebrand ASA",
+   "reports": 10,
+   "words_per_report": 17767.7,
+   "cyber_per10k": 1.5196114297292278,
+   "ai_per10k": 0.0,
+   "cyber_specific": 0.2962962962962963,
+   "sticky": 0.48316671118014176,
+   "xref_per10k": 0.0,
+   "years_with_ai": 0
+  },
+  {
+   "group": "Sampo Group (Sampo plc)",
+   "reports": 10,
+   "words_per_report": 7255.0,
+   "cyber_per10k": 1.516195727084769,
+   "ai_per10k": 0.0,
+   "cyber_specific": 0.45454545454545453,
+   "sticky": 0.9099239481526665,
+   "xref_per10k": 1.2405237767057202,
+   "years_with_ai": 0
+  },
+  {
+   "group": "SCOR SE",
+   "reports": 10,
+   "words_per_report": 80840.6,
+   "cyber_per10k": 1.3483323973350025,
+   "ai_per10k": 0.061850109969495526,
+   "cyber_specific": 0.12844036697247707,
+   "sticky": 0.8407073724173877,
+   "xref_per10k": 2.461634376785922,
+   "years_with_ai": 3
+  },
+  {
+   "group": "Assicurazioni Generali",
+   "reports": 10,
+   "words_per_report": 59159.2,
+   "cyber_per10k": 1.200151455733005,
+   "ai_per10k": 0.5071062489012698,
+   "cyber_specific": 0.2676056338028169,
+   "sticky": 0.654291607107835,
+   "xref_per10k": 0.6592381235716507,
+   "years_with_ai": 5
+  },
+  {
+   "group": "Aviva plc",
+   "reports": 10,
+   "words_per_report": 57506.9,
+   "cyber_per10k": 1.060742276144254,
+   "ai_per10k": 0.05216765292512725,
+   "cyber_specific": 0.3770491803278688,
+   "sticky": 0.7018910835255685,
+   "xref_per10k": 0.4868980939678543,
+   "years_with_ai": 3
+  },
+  {
+   "group": "Talanx",
+   "reports": 10,
+   "words_per_report": 40930.6,
+   "cyber_per10k": 0.9039691575496084,
+   "ai_per10k": 0.24431598852692119,
+   "cyber_specific": 0.3783783783783784,
+   "sticky": 0.7313218100959509,
+   "xref_per10k": 0.07329479655807636,
+   "years_with_ai": 3
+  },
+  {
+   "group": "Gjensidige Forsikring ASA",
+   "reports": 10,
+   "words_per_report": 29864.5,
+   "cyber_per10k": 0.5022685797518793,
+   "ai_per10k": 0.033484571983458625,
+   "cyber_specific": 0.0,
+   "sticky": 0.6602074798729107,
+   "xref_per10k": 0.1339382879338345,
+   "years_with_ai": 1
+  },
+  {
+   "group": "Legal & General Group",
+   "reports": 10,
+   "words_per_report": 39937.6,
+   "cyber_per10k": 0.4757421577661151,
+   "ai_per10k": 0.050078121870117384,
+   "cyber_specific": 1.0,
+   "sticky": 0.8198864265613017,
+   "xref_per10k": 0.025039060935058692,
+   "years_with_ai": 1
+  },
+  {
+   "group": "Unipol",
+   "reports": 10,
+   "words_per_report": 50077.9,
+   "cyber_per10k": 0.33947110401993696,
+   "ai_per10k": 0.41934665790698095,
+   "cyber_specific": 0.23529411764705882,
+   "sticky": 0.7966191899058295,
+   "xref_per10k": 0.0,
+   "years_with_ai": 5
+  },
+  {
+   "group": "Standard Life plc (formerly Phoenix Group Holdings plc)",
+   "reports": 10,
+   "words_per_report": 70154.8,
+   "cyber_per10k": 0.29933803531618647,
+   "ai_per10k": 0.014254192157913643,
+   "cyber_specific": 0.19047619047619047,
+   "sticky": 0.5756482028922772,
+   "xref_per10k": 0.12828772942122277,
+   "years_with_ai": 1
+  },
+  {
+   "group": "PZU (Powszechny Zaklad Ubezpieczen)",
+   "reports": 10,
+   "words_per_report": 37236.9,
+   "cyber_per10k": 0.1611304915285644,
+   "ai_per10k": 0.1879855734499918,
+   "cyber_specific": 0.16666666666666666,
+   "sticky": 0.5163928898861881,
+   "xref_per10k": 0.1879855734499918,
+   "years_with_ai": 4
+  },
+  {
+   "group": "AXA",
+   "reports": 10,
+   "words_per_report": 19883.6,
+   "cyber_per10k": 0.0,
+   "ai_per10k": 0.05029270353457121,
+   "cyber_specific": NaN,
+   "sticky": NaN,
+   "xref_per10k": 4.878392242853407,
+   "years_with_ai": 1
+  },
+  {
+   "group": "NN Group N.V.",
+   "reports": 10,
+   "words_per_report": 22730.3,
+   "cyber_per10k": 0.0,
+   "ai_per10k": 0.0,
+   "cyber_specific": NaN,
+   "sticky": NaN,
+   "xref_per10k": 2.903613238716603,
+   "years_with_ai": 0
+  }
+ ],
+ "xref_median": 0.23946270811570425,
+ "cyber_per10k_high_xref": 1.4322640622098857,
+ "cyber_per10k_low_xref": 0.7031188686507439,
+ "words_high_xref": 41435.183333333334,
+ "words_low_xref": 38587.25,
+ "groups_no_cyber": [
+  "AXA",
+  "NN Group N.V."
+ ],
+ "groups_no_ai": [
+  "Tryg A/S",
+  "Storebrand ASA",
+  "Sampo Group (Sampo plc)",
+  "NN Group N.V."
+ ],
+ "range_cyber_per10k": [
+  0.0,
+  3.938034399359845
+ ],
+ "examples": {
+  "cyber_depth:mention": [
+   {
+    "group": "Mapfre",
+    "year": 2024,
+    "section": "C.6x",
+    "sentence": "Similarly, AI could boost cyberwarfare capabilities, enabling autonomous systems with unpredictable impacts."
+   },
+   {
+    "group": "Assicurazioni Generali",
+    "year": 2023,
+    "section": "C.5",
+    "sentence": "During 2023, indeed, geopolitical tensions combined with the market instability have hampered the economic recovery in a context severely affected by the post-pandemic crisis, contributing to maintaining high the exposure to the risks related to cyber-attacks, operational resilience, and financial crimes."
+   }
+  ],
+  "cyber_depth:governance": [
+   {
+    "group": "ASR Nederland N.V. (a.s.r.)",
+    "year": 2020,
+    "section": "B.3",
+    "sentence": "There are technical solutions for accomplishing this, by enforcing a layered approach (defence-in-depth) of technical measures to avoid unauthorised persons (i.e. hackers) to compromise a.s.r. corporate data and systems."
+   },
+   {
+    "group": "Prudential plc",
+    "year": 2016,
+    "section": "C",
+    "sentence": "Protecting our customers remains core to our business, and the successful delivery of the Cyber Defence Plan will reinforce our capabilities to continue doing so in cyberspace as we transition to a digital business."
+   }
+  ],
+  "cyber_depth:quantified": [
+   {
+    "group": "Hannover Re",
+    "year": 2020,
+    "section": "C.6x",
+    "sentence": "The mapping of cyber risks in the internal capital model was already improved in 2019, with the result that more detailed risk management is now possible and our cyber portfolio is included with regard to the so-called \u201csilent cyber\u201d exposure, insofar as the relevant portfolios have already been analysed."
+   },
+   {
+    "group": "Hannover Re",
+    "year": 2019,
+    "section": "C.5",
+    "sentence": "Moreover, in the area of catastrophe risks the modelling approach used for cyber risks was refined, leading to an increase in required capital."
+   }
+  ],
+  "ai_type:use": [
+   {
+    "group": "Mapfre",
+    "year": 2025,
+    "section": "C.6x",
+    "sentence": "Mapfre has implemented more than 115 AI use cases, automated document management for over 1.2 million customers, and by 2024 (latest available data), 40% of operations involved virtual assistants."
+   },
+   {
+    "group": "Ageas",
+    "year": 2024,
+    "section": "B.3",
+    "sentence": "The Group's annual Horizon Scan process assesses emerging trends through artificial intelligence analysis and employee opinions, supported by a \u2018Think Beyond\u2019 working group."
+   }
+  ],
+  "ai_type:risk_governance": [
+   {
+    "group": "Mapfre",
+    "year": 2025,
+    "section": "C.6x",
+    "sentence": "The control processes related to decision-making linked to the use of AI must be sufficiently clear for this governance to be effective and robust."
+   },
+   {
+    "group": "Mapfre",
+    "year": 2024,
+    "section": "C.6x",
+    "sentence": "In the current context, where the threat of organized cyber-attacks is growing, the use of AI in these attacks is an additional concern."
+   }
+  ],
+  "ai_type:regulation": [
+   {
+    "group": "Mapfre",
+    "year": 2023,
+    "section": "C.6x",
+    "sentence": "At the international level, the first steps are already being taken with the dissemination of several high-level governance frameworks for AI development (e.g."
+   },
+   {
+    "group": "Talanx",
+    "year": 2025,
+    "section": "C",
+    "sentence": "The focus also remained on the phased introduction of the AI Act and the establishment of appropriate governance structures."
+   }
+  ]
+ }
+}

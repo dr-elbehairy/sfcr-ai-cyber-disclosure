@@ -1,0 +1,4 @@
+data_raw/sfcr/
+data/
+__pycache__/
+*.parquet
